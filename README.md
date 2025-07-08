@@ -11,6 +11,8 @@ A basic yet fully functional Flutter e-commerce app that uses local data structu
   <img src="assets/Screenshots/Home.jpg" height="300">
   <img src="assets/Screenshots/Details .jpg" height="300">
   <img src="assets/Screenshots/Cart.jpg" height="300">
+  </p>
+  <p align="center">
   <img src="assets/Screenshots/Fav.jpg" height="300">
   <img src="assets/Screenshots/Profile.jpg" height="300">
   <img src="assets/Screenshots/Orders.jpg" height="300">

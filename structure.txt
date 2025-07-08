@@ -1,0 +1,50 @@
+.
+├── analysis_options.yaml
+├── android
+│   ├── app
+│   ├── build.gradle.kts
+│   ├── gradle
+│   ├── gradle.properties
+│   ├── gradlew
+│   ├── gradlew.bat
+│   ├── local.properties
+│   ├── myapp_android.iml
+│   └── settings.gradle.kts
+├── assets
+│   ├── fonts
+│   ├── images
+│   └── Screenshots
+├── build
+│   ├── 34012d5276b85e5640ff49211e35fa7f
+│   ├── 9b1c68e3ba871013eb94170c3a2f7633.cache.dill.track.dill
+│   ├── app
+│   ├── flutter_assets
+│   ├── native_assets
+│   ├── path_provider_android
+│   └── reports
+├── firebase-debug.log
+├── lib
+│   ├── Cart.dart
+│   ├── details.dart
+│   ├── Fav.dart
+│   ├── home_page.dart
+│   ├── main.dart
+│   ├── navbar.dart
+│   ├── Order.dart
+│   ├── Prof.dart
+│   └── util
+├── myapp.iml
+├── pubspec.lock
+├── pubspec.yaml
+├── README.md
+├── structure.txt
+├── test
+│   └── widget_test.dart
+└── web
+    ├── favicon.png
+    ├── icons
+    ├── index.html
+    └── manifest.json
+
+20 directories, 27 files
+tree is not installed, but available in the following packages, pick one to run it, Ctrl+C to cancel.
